@@ -1,0 +1,19 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/yea/Content/Level/L_FromScratch.umap",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/yea/Content/PlayerStuff.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/yea/Content/Player/CoolPlayer.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/yea/Content/NewInputMappingContext.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/yea/Content/Level/CoolTerrainStuff.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/yea/Content/Level/NewHLODLayer.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/yea/Content/Level/FromScratchHLODLayer.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/yea/Content/Materials/PlayerTest.uasset"
+			]
+		}
+	]
+}
