@@ -7,7 +7,12 @@
 			"files": [
 				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/Player/CoolPlayer.uasset",
 				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/slippery.uasset",
-				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/Level/Platformer_Levels/L_Platformer.umap"
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/Level/Platformer_Levels/L_Platformer.umap",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/Powerups/BP_SpeedBoost.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/Materials/Dash.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/Powerups/BP_DashBoost.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/Powerups/BP_Dash.uasset",
+				"C:/Users/alexander.matyaszek/Documents/Unreal Projects/ue5-bhop/Content/Powerups/BP_Speed.uasset"
 			]
 		}
 	]
